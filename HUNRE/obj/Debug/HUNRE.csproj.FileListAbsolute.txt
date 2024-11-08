@@ -1,0 +1,169 @@
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.AssemblyReference.cache
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.baithi.resources
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.Login.resources
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.Properties.Resources.resources
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.GenerateResource.cache
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CoreCompileInputs.cache
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\bin\Debug\HUNRE.exe.config
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\bin\Debug\HUNRE.exe
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\bin\Debug\HUNRE.pdb
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\bin\Debug\Guna.UI.dll
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\bin\Debug\Guna.UI2.dll
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.Up2Date
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.exe
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.pdb
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.Manager.resources
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.Student.resources
+D:\LearnSpace\.Net Tech\HUNRE\HUNRE\obj\Debug\HUNRE.StudentInfo.resources
+D:\HUNRE\HUNRE\bin\Debug\HUNRE.exe.config
+D:\HUNRE\HUNRE\bin\Debug\HUNRE.exe
+D:\HUNRE\HUNRE\bin\Debug\HUNRE.pdb
+D:\HUNRE\HUNRE\bin\Debug\Guna.UI2.dll
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.AssemblyReference.cache
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.Baithi.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.Login.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.Manager.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.Properties.Resources.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.Student.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.StudentInfo.resources
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.GenerateResource.cache
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CoreCompileInputs.cache
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.Up2Date
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.exe
+D:\HUNRE\HUNRE\obj\Debug\HUNRE.pdb
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\bin\Debug\HUNRE.exe.config
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\bin\Debug\HUNRE.exe
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\bin\Debug\HUNRE.pdb
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\bin\Debug\Guna.UI2.dll
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.csproj.AssemblyReference.cache
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.Baithi.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.Login.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.Manager.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.Properties.Resources.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.Student.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.StudentInfo.resources
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.csproj.GenerateResource.cache
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.csproj.CoreCompileInputs.cache
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.csproj.Up2Date
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.exe
+D:\LearnSpace\.Net Tech\HUNRE (1)\HUNRE\obj\Debug\HUNRE.pdb
+D:\dotNet\HUNRE\HUNRE\bin\Debug\HUNRE.exe.config
+D:\dotNet\HUNRE\HUNRE\bin\Debug\HUNRE.exe
+D:\dotNet\HUNRE\HUNRE\bin\Debug\HUNRE.pdb
+D:\dotNet\HUNRE\HUNRE\bin\Debug\EPPlus.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\EPPlus.Interfaces.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\EPPlus.System.Drawing.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Guna.UI2.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Buffers.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.ComponentModel.Annotations.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Memory.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Numerics.Vectors.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\EPPlus.xml
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Buffers.xml
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Memory.xml
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Numerics.Vectors.xml
+D:\dotNet\HUNRE\HUNRE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.AssemblyReference.cache
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.Baithi.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ListMonThi.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.Login.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.Manager.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.Properties.Resources.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.Student.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.GenerateResource.cache
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CoreCompileInputs.cache
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CopyComplete
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.exe
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.pdb
+D:\Downloads\HUNRE\HUNRE\bin\Debug\HUNRE.exe.config
+D:\Downloads\HUNRE\HUNRE\bin\Debug\HUNRE.exe
+D:\Downloads\HUNRE\HUNRE\bin\Debug\HUNRE.pdb
+D:\Downloads\HUNRE\HUNRE\bin\Debug\EPPlus.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\EPPlus.Interfaces.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\EPPlus.System.Drawing.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\Guna.UI2.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Buffers.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Memory.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\HUNRE\HUNRE\bin\Debug\EPPlus.xml
+D:\Downloads\HUNRE\HUNRE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Buffers.xml
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Memory.xml
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\HUNRE\HUNRE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.AssemblyReference.cache
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.Baithi.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.ListMonThi.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.Login.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.Manager.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.Properties.Resources.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.Student.resources
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.GenerateResource.cache
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CoreCompileInputs.cache
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.csproj.CopyComplete
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.exe
+D:\Downloads\HUNRE\HUNRE\obj\Debug\HUNRE.pdb
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ListDapAn.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ListCauHoi.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ChiTiet.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ListTraLoi.resources
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.ListCH_DA.resources
+D:\dotNet\HUNRE\HUNRE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\EnvDTE.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\stdole.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dotNet\HUNRE\HUNRE\obj\Debug\HUNRE.PrintBaiThi.resources
